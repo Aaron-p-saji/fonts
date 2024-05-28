@@ -1,0 +1,28 @@
+{
+  "name": "@aaron-p-saji/fonts",
+  "version": "0.0.1",
+  "description": "A package containing custom fonts for use in web projects.",
+  "license": "MIT",
+  "keywords": [
+    "font",
+    "custom",
+    "web"
+  ],
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaron-p-saji/fonts.git"
+  },
+  "author": "Aaron P Saji",
+  "homepage": "https://github.com/Aaron-p-saji/fonts#readme",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "files": [
+    "fonts/",
+    "README.md"
+  ]
+}
