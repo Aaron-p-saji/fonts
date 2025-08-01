@@ -125,3 +125,26 @@
   font-style: italic;
   font-display: auto;
 }
+
+@font-face {
+  font-family: "Neue Machina";
+  src: url("./files/otf/NeueMachina-Light.otf") format("otf");
+  font-weight: 100;
+  font-style: italic;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: "Neue Machina";
+  src: url("./files/otf/NeueMachina-Regular.otf") format("otf");
+  font-weight: 100;
+  font-style: italic;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Neue Machina";
+  src: url("./files/otf/NeueMachina-Ultrabold.otf") format("otf");
+  font-weight: 100;
+  font-style: italic;
+  font-display: auto;
+}
